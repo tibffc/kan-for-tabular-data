@@ -14,7 +14,8 @@ and the original implementation:
 
 https://github.com/AI-thpremed/TabKANet
 
----
+(Also, as additional experiments: `kanVSsiren.ipynb` and `TabKANet_vs_TabMLPNet.ipynb` on Feynman equations.)
+
 
 ## 1. Pruning experiment
 
