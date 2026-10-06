@@ -8,8 +8,7 @@ This repository contains experiments comparing **KAN- and MLP-based architecture
 
 The work is based on the TabKANet architecture proposed in:
 
-> Gao et al., *TabKANet: Tabular Data Modeling with Kolmogorov-Arnold Network and Transformer*
-> [arXiv:2409.08806](https://arxiv.org/abs/2409.08806)
+> https://www.sciencedirect.com/science/article/pii/S0950705125017368
 
 and the original implementation:
 
@@ -123,10 +122,10 @@ Both classification and regression tasks are included.
 
 This project builds on **TabKANet**:
 
-> Weihao Gao, Zheng Gong, Zhuo Deng, Fuju Rong, Chucheng Chen, Lan Ma.
-> *TabKANet: Tabular Data Modeling with Kolmogorov-Arnold Network and Transformer.*
+> Weihao Gao, Zheng Gong, Zhuo Deng, Lan Ma 
+> *Revisiting the numerical feature embeddings structure in neural network-based tabular modelling*
 > arXiv:2409.08806, 2024.
 
-Paper: https://arxiv.org/abs/2409.08806
+Paper: https://www.sciencedirect.com/science/article/pii/S0950705125017368
 
 Original implementation: https://github.com/AI-thpremed/TabKANet
